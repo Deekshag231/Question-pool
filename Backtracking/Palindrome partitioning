@@ -1,0 +1,32 @@
+class Solution {
+    public List<List<String>> partition(String s) {
+        List<List<String>> ls = new ArrayList<>();
+         List<String> res= new ArrayList<>();
+        helper(s,ls,0,res);
+        return ls;
+    }
+    static void helper(String s,List<List<String>> ls,int idx,List<String> res){
+        if(idx==s.length()){
+           ls.add(new ArrayList<>(res));
+           return;
+        }
+
+        for(int i=idx;i<s.length();i++){
+            if(palindrome(s,idx,i)){
+                res.add(s.substring(idx,i+1));
+                helper(s,ls,i+1,res);
+                res.remove(res.size()-1);
+            }
+        }
+    }
+     static boolean palindrome(String s,int idx,int i){
+        while(idx<i){
+            if(s.charAt(i)!=s.charAt(idx)){
+                return false;
+            }
+            i--;
+            idx++;
+        }
+        return true;
+    }
+}
