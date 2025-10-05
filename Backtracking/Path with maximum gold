@@ -1,0 +1,40 @@
+class Solution {
+    static int rows;
+     static int cols;
+    public int getMaximumGold(int[][] grid) {
+        rows=grid.length;
+        cols=grid[0].length;
+        boolean[][] visited=new boolean[grid.length][grid[0].length];
+        int maxi=0;
+        int tot=0;
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                tot+=grid[i][j];
+            }
+        }
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(grid[i][j]>0){
+                    maxi=Math.max(maxi,helper(grid,i,j,visited));
+                    if(maxi==tot){
+                        return maxi;
+                    }
+                }
+            }
+        }
+        return maxi;
+    }
+    static int helper(int[][] grid,int r,int c,boolean[][] visited){
+        if(r<0||c<0||r>=rows||c>=cols||visited[r][c]||grid[r][c]==0){
+            return 0;
+        }
+        visited[r][c]=true;
+        int maxi=0;
+        int[][] ds=new int[][]{{-1,0},{0,1},{1,0},{0,-1}};
+        for(int i=0;i<4;i++){
+            maxi=Math.max(maxi,helper(grid,r+ds[i][0],c+ds[i][1],visited));
+        }
+        visited[r][c]=false;
+        return grid[r][c]+maxi;
+    }
+}
