@@ -1,0 +1,43 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+    int count=0;
+    boolean[] valid;
+    public int countArrangement(int n){
+       valid =new boolean[n+1];
+       if(n==1){
+           return 1;
+       }
+       if(n==2){
+           return 2;
+       }
+       helper(n,valid,n);
+       return count;
+    }
+    public void helper(int start,boolean[] valid,int n){
+        if(start<1){
+            count++;
+            return;
+        }
+        for (int i = n; i >=1 ; i--) {
+            if(valid[i]) continue;
+            if(start%i==0||i%start==0){
+                valid[i]=true;
+                helper(start-1,valid,n);
+                valid[i]=false;
+            }
+        }
+    }
+
+    public static void main (String[] args) throws java.lang.Exception {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        Codechef cl= new Codechef();
+        int ans = cl.countArrangement(n);
+        System.out.print(ans);
+
+    }
+}
