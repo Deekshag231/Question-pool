@@ -1,0 +1,16 @@
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
+        List<List<String>> ls= new ArrayList<>();
+        HashSet<String> set= new HashSet<>();
+        for(String s: strs){
+            char[] ch=s.toCharArray();
+            Arrays.sort(ch);
+            String new1=new String(ch);
+            if(set.contains(new1)){
+                ls.add(new ArrayList<>(s));
+            }
+            set.add(s);
+        }
+        return ls;
+    }
+}
