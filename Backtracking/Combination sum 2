@@ -1,0 +1,22 @@
+ List<List<Integer>> res= new ArrayList<>();
+        List<Integer> curr=new ArrayList<>();
+        helper(arr,target,curr,0,res);
+        return res;
+    }
+     static void helper(int[] arr, int target,List<Integer> curr,int idx,List<List<Integer>> ls){
+        if(target==0){
+            ls.add(new ArrayList<>(curr));
+            return;
+        }
+        if(idx==arr.length){
+            if(target==0){
+                ls.add(new ArrayList<>(curr));
+            }
+            return;
+        }
+        if(target>=arr[idx]){
+            curr.add(arr[idx]);
+            helper(arr,target-arr[idx],curr,idx,ls);
+            curr.remove(curr.size()-1);
+        }
+        helper(arr,target,curr,idx+1,ls);
