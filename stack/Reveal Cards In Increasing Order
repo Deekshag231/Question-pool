@@ -1,0 +1,20 @@
+class Solution {
+    public int[] deckRevealedIncreasing(int[] deck) {
+        Deque<Integer> q=new LinkedList<>();
+        Arrays.sort(deck);
+        q.addFirst(deck[deck.length-1]);
+        for(int i=deck.length-2;i>=0;i--){
+            if(!q.isEmpty()){
+                int ele=q.pop();
+                q.addLast(ele);
+                q.offer(deck[i]);
+            }
+        }
+        int i=deck.length-1;
+        while(!q.isEmpty()){
+            deck[i]=q.pop();
+            i--;
+        }
+        return deck;
+    }
+}
