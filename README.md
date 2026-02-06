@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deekshag231/Question-pool/tree/master/0148-sort-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deekshag231/Question-pool/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
