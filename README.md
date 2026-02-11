@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Deekshag231/Question-pool/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deekshag231/Question-pool/tree/master/3634-minimum-removals-to-balance-array) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Deekshag231/Question-pool/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/1382-balance-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
