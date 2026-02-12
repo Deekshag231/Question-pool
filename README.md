@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deekshag231/Question-pool/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deekshag231/Question-pool/tree/master/0101-symmetric-tree) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
