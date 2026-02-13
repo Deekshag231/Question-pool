@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Deekshag231/Question-pool/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Deekshag231/Question-pool/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0110-balanced-binary-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Deekshag231/Question-pool/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Deekshag231/Question-pool/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0110-balanced-binary-tree) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Deekshag231/Question-pool/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Deekshag231/Question-pool/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0110-balanced-binary-tree) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Deekshag231/Question-pool/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Deekshag231/Question-pool/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Deekshag231/Question-pool/tree/master/1609-even-odd-tree) |
