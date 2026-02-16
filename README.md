@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deekshag231/Question-pool/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Deekshag231/Question-pool/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Deekshag231/Question-pool/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
