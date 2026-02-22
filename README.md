@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deekshag231/Question-pool/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Deekshag231/Question-pool/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Deekshag231/Question-pool/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Deekshag231/Question-pool/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deekshag231/Question-pool/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
