@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/Deekshag231/Question-pool/tree/master/1609-even-odd-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Deekshag231/Question-pool/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/Deekshag231/Question-pool/tree/master/1609-even-odd-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Deekshag231/Question-pool/tree/master/2236-root-equals-sum-of-children) |
 ## String
 |  |
 | ------- |
