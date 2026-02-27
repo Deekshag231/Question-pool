@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deekshag231/Question-pool/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deekshag231/Question-pool/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deekshag231/Question-pool/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Deekshag231/Question-pool/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0993-cousins-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Deekshag231/Question-pool/tree/master/1609-even-odd-tree) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -208,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deekshag231/Question-pool/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
