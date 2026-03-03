@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0761-special-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deekshag231/Question-pool/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deekshag231/Question-pool/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
@@ -225,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deekshag231/Question-pool/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
