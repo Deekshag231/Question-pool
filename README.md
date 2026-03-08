@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deekshag231/Question-pool/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deekshag231/Question-pool/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Deekshag231/Question-pool/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deekshag231/Question-pool/tree/master/3634-minimum-removals-to-balance-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deekshag231/Question-pool/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deekshag231/Question-pool/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Deekshag231/Question-pool/tree/master/3714-longest-balanced-substring-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deekshag231/Question-pool/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deekshag231/Question-pool/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Deekshag231/Question-pool/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Deekshag231/Question-pool/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
