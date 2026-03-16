@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Deekshag231/Question-pool/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deekshag231/Question-pool/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deekshag231/Question-pool/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/Deekshag231/Question-pool/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/Deekshag231/Question-pool/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Deekshag231/Question-pool/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deekshag231/Question-pool/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -246,9 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Deekshag231/Question-pool/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Deekshag231/Question-pool/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
