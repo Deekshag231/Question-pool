@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Deekshag231/Question-pool/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Deekshag231/Question-pool/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
