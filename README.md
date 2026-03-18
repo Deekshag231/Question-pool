@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deekshag231/Question-pool/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Deekshag231/Question-pool/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deekshag231/Question-pool/tree/master/3634-minimum-removals-to-balance-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3714-longest-balanced-substring-ii](https://github.com/Deekshag231/Question-pool/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Breadth-First Search
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deekshag231/Question-pool/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deekshag231/Question-pool/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Recursion
 |  |
 | ------- |
