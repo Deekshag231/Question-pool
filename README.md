@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deekshag231/Question-pool/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/Deekshag231/Question-pool/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Deekshag231/Question-pool/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deekshag231/Question-pool/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deekshag231/Question-pool/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Deekshag231/Question-pool/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/Deekshag231/Question-pool/tree/master/1609-even-odd-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Deekshag231/Question-pool/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Deekshag231/Question-pool/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deekshag231/Question-pool/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deekshag231/Question-pool/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
