@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Deekshag231/Question-pool/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deekshag231/Question-pool/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Deekshag231/Question-pool/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deekshag231/Question-pool/tree/master/3634-minimum-removals-to-balance-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Deekshag231/Question-pool/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/0761-special-binary-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deekshag231/Question-pool/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Deekshag231/Question-pool/tree/master/2285-maximum-total-importance-of-roads) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Deekshag231/Question-pool/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deekshag231/Question-pool/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Deekshag231/Question-pool/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Deekshag231/Question-pool/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Deekshag231/Question-pool/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Deekshag231/Question-pool/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Stack
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/1382-balance-a-binary-search-tree) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Deekshag231/Question-pool/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Deekshag231/Question-pool/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Deekshag231/Question-pool/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
