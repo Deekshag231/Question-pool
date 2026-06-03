@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Deekshag231/Question-pool/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Deekshag231/Question-pool/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deekshag231/Question-pool/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Deekshag231/Question-pool/tree/master/0200-number-of-islands) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Deekshag231/Question-pool/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deekshag231/Question-pool/tree/master/0701-insert-into-a-binary-search-tree) |
