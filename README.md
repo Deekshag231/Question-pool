@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deekshag231/Question-pool/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/Deekshag231/Question-pool/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Deekshag231/Question-pool/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Deekshag231/Question-pool/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deekshag231/Question-pool/tree/master/1004-max-consecutive-ones-iii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deekshag231/Question-pool/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deekshag231/Question-pool/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deekshag231/Question-pool/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deekshag231/Question-pool/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deekshag231/Question-pool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deekshag231/Question-pool/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deekshag231/Question-pool/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Deekshag231/Question-pool/tree/master/3713-longest-balanced-substring-i) |
