@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Deekshag231/Question-pool/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Deekshag231/Question-pool/tree/master/0994-rotting-oranges) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deekshag231/Question-pool/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deekshag231/Question-pool/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Deekshag231/Question-pool/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deekshag231/Question-pool/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deekshag231/Question-pool/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Deekshag231/Question-pool/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deekshag231/Question-pool/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deekshag231/Question-pool/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Deekshag231/Question-pool/tree/master/3714-longest-balanced-substring-ii) |
