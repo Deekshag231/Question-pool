@@ -8,7 +8,7 @@ class Solution {
         }
         max=sum;
 
-        if(k==arr.length)  return sum;
+        //if(k==arr.length)  return sum;
         int i=n-1;
         int left=k-1;
         while(i>=0&&left>=0){
