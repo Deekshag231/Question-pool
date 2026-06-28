@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Deekshag231/Question-pool/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Deekshag231/Question-pool/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Deekshag231/Question-pool/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Deekshag231/Question-pool/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deekshag231/Question-pool/tree/master/1004-max-consecutive-ones-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deekshag231/Question-pool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deekshag231/Question-pool/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Deekshag231/Question-pool/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deekshag231/Question-pool/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deekshag231/Question-pool/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deekshag231/Question-pool/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Deekshag231/Question-pool/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Deekshag231/Question-pool/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Deekshag231/Question-pool/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deekshag231/Question-pool/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deekshag231/Question-pool/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Deekshag231/Question-pool/tree/master/1980-find-unique-binary-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Deekshag231/Question-pool/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deekshag231/Question-pool/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deekshag231/Question-pool/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deekshag231/Question-pool/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
