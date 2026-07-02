@@ -15,37 +15,30 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        
         List<List<Integer>> ls=new ArrayList<>();
-        if(root==null){
-            return ls;
-        }
-        Stack<TreeNode> st1=new Stack<>();
-        Stack<TreeNode> st2=new Stack<>();
-        st1.push(root);
-        while(!st1.isEmpty()||!st2.isEmpty()){
-            if(!st1.isEmpty()){
-                List<Integer> ans=new ArrayList<>();
-                while(!st1.isEmpty()){
-                    TreeNode temp=st1.pop();
-                    ans.add(temp.val);
-                    
-                    if(temp.left!=null) st2.push(temp.left);
-                    if(temp.right!=null) st2.push(temp.right);
+        if(root==null) return ls;
+        Deque<TreeNode> q=new LinkedList<>();
+        q.add(root);
+        boolean flag=false;
+        while(!q.isEmpty()){
+            int size=q.size();
+            List<Integer> ans=new ArrayList<>(size);
+            for(int i=0;i<size;i++){
+                if(!flag){
+                    TreeNode curr=q.pollFirst();
+                    ans.add(curr.val);
+                    if(curr.left!=null) q.addLast(curr.left);
+                    if(curr.right!=null) q.addLast(curr.right);
                 }
-                ls.add(new ArrayList<>(ans));
-            }
-            else if(!st2.isEmpty()){
-                List<Integer> ans=new ArrayList<>();
-                while(!st2.isEmpty()){
-                    TreeNode temp=st2.pop();
-                    ans.add(temp.val);
-                    
-                    if(temp.right!=null) st1.push(temp.right);
-                    if(temp.left!=null) st1.push(temp.left);
+                else{
+                    TreeNode curr=q.pollLast();
+                    ans.add(curr.val);
+                    if(curr.right!=null) q.addFirst(curr.right);
+                    if(curr.left!=null) q.addFirst(curr.left);
                 }
-                ls.add(new ArrayList<>(ans));
             }
+            flag=!flag;
+            ls.add(ans);
         }
         return ls;
     }
