@@ -14,23 +14,41 @@
  * }
  */
 class Solution {
+    class Pair{
+        TreeNode node;
+        int col;
+        public Pair(TreeNode node, int col){
+            this.node=node;
+            this.col=col;
+        }
+    }
     public List<Integer> rightSideView(TreeNode root) {
         
-        List<Integer> ls=new ArrayList<>();
+        ArrayList<Integer> ls=new ArrayList<>();
         if(root==null) return ls;
-        Deque<TreeNode> q=new ArrayDeque<>();
-        q.addLast(root);
-        int level=0;
+        HashMap<Integer, Integer> map=new HashMap<>();
+        Queue<Pair> q= new LinkedList<Pair>();
+        q.add(new Pair(root,0));
         while(!q.isEmpty()){
-            int n=q.size();
-            ls.add(q.peekLast().val);
-            while(n-->0){
-                TreeNode temp=q.pollFirst();
-                if(temp.left!=null) q.addLast(temp.left);
-                if(temp.right!=null) q.addLast(temp.right);
+            Pair pair=q.poll();
+            TreeNode temp=pair.node;
+            int y=pair.col;
+            if(map.get(y)==null) map.put(y,temp.val);
+            if(map.containsKey(y)){
+                map.put(y,temp.val);
             }
-            level++;
+            if(temp.left!=null){
+                q.add(new Pair(temp.left,y+1));
+            }
+            if(temp.right!=null){
+                q.add(new Pair(temp.right,y+1));
+            }
+            
+        }
+        for(Map.Entry<Integer,Integer> e:map.entrySet()){
+            ls.add(e.getValue());
         }
         return ls;
+        
     }
 }
