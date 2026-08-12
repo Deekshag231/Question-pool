@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deekshag231/Question-pool/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/Deekshag231/Question-pool/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Deekshag231/Question-pool/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/Deekshag231/Question-pool/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/Deekshag231/Question-pool/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Deekshag231/Question-pool/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deekshag231/Question-pool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Deekshag231/Question-pool/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Deekshag231/Question-pool/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deekshag231/Question-pool/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Deekshag231/Question-pool/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deekshag231/Question-pool/tree/master/0930-binary-subarrays-with-sum) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deekshag231/Question-pool/tree/master/0239-sliding-window-maximum) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Deekshag231/Question-pool/tree/master/2285-maximum-total-importance-of-roads) |
 ## Combinatorics
 |  |
@@ -393,4 +396,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Deekshag231/Question-pool/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Deekshag231/Question-pool/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Deekshag231/Question-pool/tree/master/1251-average-selling-price) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deekshag231/Question-pool/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deekshag231/Question-pool/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deekshag231/Question-pool/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
